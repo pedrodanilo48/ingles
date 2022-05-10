@@ -11298,6 +11298,7 @@ textarea.form-control-lg {
 }
 .rodape{
   margin-top: auto;
+  padding: 0px;
 }
 .corpinho{
   margin-top: 10px;
@@ -11317,7 +11318,7 @@ padding-left: 10px;
   margin: auto;
 }
 .footer-basic {
-  padding:40px 0;
+  padding:5px 0;
   background-color:#ffffff;
   color:#4b4c4d;
 }
